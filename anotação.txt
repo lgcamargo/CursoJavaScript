@@ -1,0 +1,1 @@
+divisão por 0 em js é possível e retorna "infinite"

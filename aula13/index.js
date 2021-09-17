@@ -1,0 +1,10 @@
+let aString = "o rato roeu a roupa do rei de roma";
+console.log(aString.concat(' em um lindo dia'));
+console.log(aString +' em um lindo dia');
+console.log(`${aString} em um lindo dia`);
+console.log(aString.indexOf('texto'));
+console.log(aString.replace(/r/g, '#'));
+console.log(aString.length);
+console.log(aString.slice(2,6));
+console.log(aString.toUpperCase());
+console.log(aString.toLowerCase());

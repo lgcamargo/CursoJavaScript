@@ -1,0 +1,1 @@
+//falou de var e falou pra não usar então foda-se var.
